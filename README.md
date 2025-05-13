@@ -34,7 +34,7 @@ npm start
 [Incluye capturas de pantalla o instrucciones básicas de uso]
 
 ## Contribuir
-Las contribuciones son bienvenidas. Para cambios importantes, por favor abre primero un issue para discutir lo que te gustaría cambiar.x|
+Las contribuciones son bienvenidas. Para cambios importantes, por favor abre primero un issue para discutir lo que te gustaría cambiar.
 
 ## Contacto
 [edgarantoniomtz93@gmail.com]
